@@ -9,4 +9,4 @@ Joaquim Neto / Design de Software
 [Visitor](https://github.com/NetoBarbosaX/Design-de-Software-/tree/main/Design-de-Software/src/Visitor)                                                                                 
 [Observer](https://github.com/NetoBarbosaX/Design-de-Software-/tree/main/Design-de-Software/src/Observer)                                                                                         
 [Composite](https://github.com/NetoBarbosaX/Design-de-Software-/tree/main/Design-de-Software/src/Composite)                                                                                       
-[ChainOfResponsibility](https://github.com/NetoBarbosaX/Design-de-Software-/tree/main/Design-de-Software/src/ChainOfResponsability)  
+[ChainOfResponsibility](https://github.com/NetoBarbosaX/Design-de-Software-/tree/main/Design-de-Software/src/Chain%20of%20Responsibility)  
