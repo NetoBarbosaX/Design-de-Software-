@@ -4,3 +4,4 @@ deseja se inscrever.
 Enquanto no Observer você dispara um único evento e todos os inscritos são notificados do evento, no Publisher-Subscriber é necessário definir o evento que será publicado e que deseja se inscrever deve declarar o evento que possuí interesse.
 
 Exemplo do Codigo em funcionamento:
+https://github.com/NetoBarbosaX/Pub-Sub-Pattern
